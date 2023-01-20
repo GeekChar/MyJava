@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93f16b84-2276-4a3f-9ab1-64f0582ecf0c" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$MAVAEN_HOME$" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JnOvTAZNPA6BgbrimjKXkNP5PC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../JDK/AndroidSDK" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.42528737" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\app\dnfscript\src\main\resources" />
+      <recent name="D:\app\dnfscript\src\main" />
+      <recent name="D:\app\dnfscript\src\main\java\script" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\app\dnfscript\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Test">
+    <configuration name="Test" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8_32" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="script.Test" />
+      <module name="dnfscript" />
+      <option name="PROGRAM_PARAMETERS" value="-Dfile.encoding=UTF-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="script.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8_32" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
+      <module name="dnfscript" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test2" />
+      <module name="dnfscript" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8_32" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
+      <module name="dnfscript" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="应用程序.Test" />
+      <item itemvalue="应用程序.Test2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Test" />
+        <item itemvalue="应用程序.Test2" />
+        <item itemvalue="应用程序.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93f16b84-2276-4a3f-9ab1-64f0582ecf0c" name="默认的" comment="" />
+      <created>1672710610143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672710610143</updated>
+      <workItem from="1672710612569" duration="6859000" />
+      <workItem from="1672717611899" duration="426000" />
+      <workItem from="1672718219333" duration="326000" />
+      <workItem from="1672741167392" duration="5077000" />
+      <workItem from="1672746628465" duration="1143000" />
+      <workItem from="1672841576287" duration="1247000" />
+      <workItem from="1672842889535" duration="925000" />
+      <workItem from="1672897443023" duration="7093000" />
+      <workItem from="1672905901363" duration="133000" />
+      <workItem from="1672909553276" duration="8260000" />
+      <workItem from="1672919195096" duration="617000" />
+      <workItem from="1672992103016" duration="4233000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1672993910998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1672993910998" />
+    <state x="768" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1672993829812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="768" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1672993829812" />
+    <state x="740" y="225" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1672747452678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="225" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1672747452678" />
+    <state x="771" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1672992505497">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1672992505497" />
+    <state x="689" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1672842165279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1672842165279" />
+    <state x="730" y="387" width="459" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1672712741538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="730" y="387" width="459" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1672712741538" />
+    <state x="741" y="388" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1672902212452">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="741" y="388" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1672902212452" />
+    <state x="440" y="94" key="#项目结构" timestamp="1672711354606">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#项目结构/0.0.1920.1040@0.0.1920.1040" timestamp="1672711354606" />
+    <state x="859" y="266" key="EnvironmentVariablesDialog" timestamp="1672747458806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="859" y="266" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1672747458806" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1672712443739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1672712443739" />
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom" timestamp="1672996377813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1672996377813" />
+    <state width="1877" height="352" key="GridCell.Tab.0.center" timestamp="1672996377813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1672996377813" />
+    <state width="1877" height="352" key="GridCell.Tab.0.left" timestamp="1672996377813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1672996377813" />
+    <state width="1877" height="352" key="GridCell.Tab.0.right" timestamp="1672996377813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1672996377813" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1672996377813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1672996377813" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1672996377813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1672996377813" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1672996377813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1672996377813" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1672996377813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1672996377813" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1672993889311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1672993889311" />
+    <state x="701" y="284" key="extract.method.dialog" timestamp="1672911907991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="701" y="284" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1672911907991" />
+    <state x="627" y="242" key="run.anything.popup" timestamp="1672910582700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1672910582700" />
+  </component>
+</project>
